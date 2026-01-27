@@ -26,7 +26,7 @@ BEGINNER-REACT/
 ├── 13 BG Changer              # Background color changer
 ├── 14 Password Generator      # Password generator app
 ├── 15 Currency Converter      # Currency converter app
-│
+│── 16 Redux Toolkit           # Redux Toolkit Concept
 └── index.html
 ```
 
